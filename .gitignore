@@ -14,6 +14,9 @@ package-lock.json
 react.svg
 vite.svg
 public
+vite.config.js
+README.md
+.eslintrc.cjs
 *.local
 
 # Editor directories and files
